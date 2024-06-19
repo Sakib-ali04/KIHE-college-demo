@@ -1,4 +1,4 @@
 # KIHE-college-demo
 This is my second Git Repository.
 <br>
-Author - sakib ali
+Author - sakib ali (KIT college)
